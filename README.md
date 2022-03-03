@@ -1,1 +1,1 @@
-# odin-recipes
+Odin Recipes learning HTML
